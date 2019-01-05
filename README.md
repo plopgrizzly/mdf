@@ -8,4 +8,4 @@ Use file extension `.md` or `.mdd` to write your markdown (Document Format) code
 Use program mdf to covnert to `.mdf`.
 
 ## Format Specification
-Take a gander at [The MDF Specification](mdf.md).
+Take a gander at [The MDF Specification](MDF.md).
