@@ -62,9 +62,9 @@ You can escape markdown syntax with a `\`: \# \[ \*.  Horizontal rule (2 or more
 ; An unordered list.
 ; Item 2
 
-[# Centered Section Heading ?c]
-[Centered Paragraph. ?c]
-[Centered Image !image.svg ?c]
+[# Centered Section Heading ?center]
+[Centered Paragraph. ?center]
+[Centered Image !image.svg ?center]
 
 Escaping different syntaxes (only needed after newline):
 \| | |
